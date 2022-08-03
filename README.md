@@ -19,6 +19,6 @@ For the analysis to be more reasonable in checking the effect of tweets against 
 tweets. Thereby making the research more effective by allowing for time for changes in the stocks.
 
 ## Contributors
-- [Myself](https://github.com/eaverine)
-- [EzeXavier01](https://github.com/EzeXavier01)
+- [Myself](https://github.com/EzeXavier01)
+- [eaverine](https://github.com/eaverine)
 - [Vheektoh](https://github.com/Vheektoh)
